@@ -59,5 +59,5 @@ console.log(ValueOfStr);
   // let a = 5;
   // let b = a++; If used postfix, the increment operator increments and returns the value(to y) before incrementing.
             // so a=6,b=5
- // let b = ++a; // If used prefix, the increment operator increments and returns the value after incrementing.
+ // let b = ++a; // If used prefix, the increment operator increments and returns the value(to y) after incrementing.
             // so a=6,b=6
