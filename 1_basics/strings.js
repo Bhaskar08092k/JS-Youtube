@@ -7,7 +7,7 @@
        //   ==================================================================================
     const mobile = new String('samsung'); // creating a string object
 //     // console.log(mobile[0]); // output will be s
-//     // console.log(mobile.length); // output will be 6
+//     // console.log(mobile.length); // output will be 7
 //     // console.log(mobile.toUpperCase()); // output will be SAMSUNG
 //     console.log(mobile.charAt(3)); // output will be s(to check character at index 3)
 //     console.log(mobile.indexOf('s')); // output will be 0 (to check index of character s)
